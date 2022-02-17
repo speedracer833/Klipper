@@ -1,28 +1,6 @@
-# Klipper for Prusa MK3s
-
-For installing the Prusa MK3s Stock Klipper firmware please follow the steps below:
-
-__V1.2 is the most current stable but still testing and modifying__
-
-
-## Updating Einsy Serial USB firmware
-
-[Update guide on my Patreon](https://www.patreon.com/posts/stock-prusa-mk3s-48015680)
-
-## Installing Klipper Firmware
-
-Your build environment will be for the Atmega2560
-
-# Klipper for SKR Bear
+# Klipper for SKR 2.0 Prusa MK2.5s Full Bear
 
 For installing the SKR Bear Klipper firmware please follow the steps below:
-
-__V0.2 is the most current stable but still testing and modifying__
-
-## Installing Klipper Firmware
-
-Your build environment will be for the LPC1768 or LPC1769
-Make sure you check both bootloader for Smoothieboard and USB Serial
 
 ## Useful links
 
